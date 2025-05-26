@@ -47,5 +47,5 @@ See [`Java_SQL_Exercises.pdf`](./Java_SQL_Exercises.pdf) for a printable version
 
 ##  Author
 
-- GitHub: [sowmiya kodiswaran](https://github.com/sowmiya kodisawran)
+- GitHub: [sowmiyakodiswaran](https://github.com/sowmiyakodisawran)
 - Created as part of self-paced Java & SQL learning
